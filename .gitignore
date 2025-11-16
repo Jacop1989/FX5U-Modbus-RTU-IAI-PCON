@@ -1,0 +1,19 @@
+# Camtasia project
+*.tscproj
+*.camproj
+*.trec
+
+# Export videos
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.mkv
+
+# Export folder
+ExportVDO/
+
+# อื่น ๆ ที่ไม่อยากขึ้น Git
+*.pptx
+*.tmp
+*.log
